@@ -1,0 +1,12 @@
+/Users/jlune/Development/C#/Play.Catalog.Service/Play.Catalog.Contracts/bin/Debug/net7.0/Play.Catalog.Contracts.deps.json
+/Users/jlune/Development/C#/Play.Catalog.Service/Play.Catalog.Contracts/bin/Debug/net7.0/Play.Catalog.Contracts.dll
+/Users/jlune/Development/C#/Play.Catalog.Service/Play.Catalog.Contracts/bin/Debug/net7.0/Play.Catalog.Contracts.pdb
+/Users/jlune/Development/C#/Play.Catalog.Service/Play.Catalog.Contracts/obj/Debug/net7.0/Play.Catalog.Contracts.csproj.AssemblyReference.cache
+/Users/jlune/Development/C#/Play.Catalog.Service/Play.Catalog.Contracts/obj/Debug/net7.0/Play.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jlune/Development/C#/Play.Catalog.Service/Play.Catalog.Contracts/obj/Debug/net7.0/Play.Catalog.Contracts.AssemblyInfoInputs.cache
+/Users/jlune/Development/C#/Play.Catalog.Service/Play.Catalog.Contracts/obj/Debug/net7.0/Play.Catalog.Contracts.AssemblyInfo.cs
+/Users/jlune/Development/C#/Play.Catalog.Service/Play.Catalog.Contracts/obj/Debug/net7.0/Play.Catalog.Contracts.csproj.CoreCompileInputs.cache
+/Users/jlune/Development/C#/Play.Catalog.Service/Play.Catalog.Contracts/obj/Debug/net7.0/Play.Catalog.Contracts.dll
+/Users/jlune/Development/C#/Play.Catalog.Service/Play.Catalog.Contracts/obj/Debug/net7.0/refint/Play.Catalog.Contracts.dll
+/Users/jlune/Development/C#/Play.Catalog.Service/Play.Catalog.Contracts/obj/Debug/net7.0/Play.Catalog.Contracts.pdb
+/Users/jlune/Development/C#/Play.Catalog.Service/Play.Catalog.Contracts/obj/Debug/net7.0/ref/Play.Catalog.Contracts.dll
